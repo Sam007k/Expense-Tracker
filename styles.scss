@@ -178,6 +178,12 @@ h2{
                 }
              }
 
+             @media(max-width: 300px) {
+                 .container{
+                     width: 200px;
+                 }
+             }
+
 
          
 
