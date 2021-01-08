@@ -183,4 +183,10 @@ h2 {
 .container .btn:focus {
   outline: none;
 }
+
+@media (max-width: 400px) {
+  .container .container {
+    width: 200px;
+  }
+}
 /*# sourceMappingURL=styles.css.map */
